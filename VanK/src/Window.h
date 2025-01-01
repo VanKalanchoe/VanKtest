@@ -13,7 +13,7 @@ namespace VanK
         ~Window();
         
         void initWindow();
-        SDL_Window* getWindow() const { return window; }
+        virtual SDL_Window* getWindow() { return window; }
     private:
         SDL_Window* window = nullptr;
         Application& m_App; // Store the reference to Application
