@@ -1,10 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "e:\\dev\\vank\\vank\\src\\renderer.cpp",
+        "Source": "e:\\dev\\vank\\vank\\src\\application.cpp",
         "ProvidedModule": "",
         "Includes": [
-            "e:\\dev\\vank\\vank\\src\\renderer.h",
+            "e:\\dev\\vank\\vank\\src\\application.h",
             "e:\\dev\\vank\\vank\\src\\core.h",
             "e:\\dev\\vank\\vank\\vendor\\sdl3\\include\\sdl3\\sdl.h",
             "e:\\dev\\vank\\vank\\vendor\\sdl3\\include\\sdl3\\sdl_stdinc.h",
@@ -504,10 +504,14 @@
             "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.42.34433\\include\\xnode_handle.h",
             "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.42.34433\\include\\map",
             "c:\\program files (x86)\\microsoft visual studio\\2022\\buildtools\\vc\\tools\\msvc\\14.42.34433\\include\\xtree",
-            "e:\\dev\\vank\\vank\\src\\application.h",
             "e:\\dev\\vank\\vank\\src\\window.h",
+            "e:\\dev\\vank\\vank\\src\\renderer.h",
             "e:\\dev\\vank\\vank\\src\\shader.h",
-            "e:\\dev\\vank\\vank\\src\\texture.h"
+            "e:\\dev\\vank\\vank\\src\\texture.h",
+            "e:\\dev\\vank\\vank\\vendor\\sdl3\\include\\sdl3\\sdl_main.h",
+            "e:\\dev\\vank\\vank\\vendor\\sdl3\\include\\sdl3\\sdl_begin_code.h",
+            "e:\\dev\\vank\\vank\\vendor\\sdl3\\include\\sdl3\\sdl_close_code.h",
+            "e:\\dev\\vank\\vank\\vendor\\sdl3\\include\\sdl3\\sdl_main_impl.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []

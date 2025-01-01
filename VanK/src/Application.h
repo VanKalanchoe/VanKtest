@@ -14,8 +14,8 @@ namespace VanK
     };
     
     inline Application* app;
-    inline std::unique_ptr<Window> window = nullptr;
-    inline std::unique_ptr<Renderer> renderer = nullptr;
+    //inline std::unique_ptr<Window> window = nullptr;
+    //inline std::unique_ptr<Renderer> renderer = nullptr;
     // To be defined in CLIENT
     Application* CreateApplication();
 }
