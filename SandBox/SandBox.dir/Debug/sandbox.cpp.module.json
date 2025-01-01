@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "SandBox.dir\\Debug\\SandBox.obj",
+            "outputs": [
+                "E:\\dev\\VanK\\SandBox\\SandBox.dir\\Debug\\vc143.pdb",
+                "SandBox.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

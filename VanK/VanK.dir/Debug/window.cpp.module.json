@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "VanK.dir\\Debug\\Window.obj",
+            "outputs": [
+                "E:\\dev\\VanK\\VanK\\Debug\\VanK.pdb",
+                "VanK.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

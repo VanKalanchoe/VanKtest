@@ -1,0 +1,12 @@
+E:\dev\VanK\VanK\src\Application.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\Application.obj
+E:\dev\VanK\VanK\src\Renderer.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\Renderer.obj
+E:\dev\VanK\VanK\src\Shader.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\Shader.obj
+E:\dev\VanK\VanK\src\Texture.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\Texture.obj
+E:\dev\VanK\VanK\src\Window.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\Window.obj
+E:\dev\VanK\VanK\Vendor\IMGUI\imgui\imgui.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\imgui.obj
+E:\dev\VanK\VanK\Vendor\IMGUI\imgui\imgui_draw.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\imgui_draw.obj
+E:\dev\VanK\VanK\Vendor\IMGUI\imgui\imgui_demo.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\imgui_demo.obj
+E:\dev\VanK\VanK\Vendor\IMGUI\imgui\imgui_tables.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\imgui_tables.obj
+E:\dev\VanK\VanK\Vendor\IMGUI\imgui\imgui_widgets.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\imgui_widgets.obj
+E:\dev\VanK\VanK\Vendor\IMGUI\imgui\backends\imgui_impl_sdl3.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\imgui_impl_sdl3.obj
+E:\dev\VanK\VanK\Vendor\IMGUI\imgui\backends\imgui_impl_opengl3.cpp;E:\dev\VanK\VanK\VanK.dir\Debug\imgui_impl_opengl3.obj

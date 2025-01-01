@@ -1,0 +1,10 @@
+^E:\DEV\VANK\CMAKEFILES\E7009A6DC2D405C1D86C7FFCC35EE93C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SE:/dev/VanK -BE:/dev/VanK --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/dev/VanK/VanK.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
